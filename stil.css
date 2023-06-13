@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkolivegreen;
+	font-family: monospace;
+	font-size: 20px;
+	background-color: linen;
+	padding: 20px;
+	display: inline-block;
+}
+
+@font-face{ 
+	font-family: MiaSlafhauzer;
+  	src: url("MiaSlafhauzer.ttf");
+	text-align:center;
+}
+h1 {font-family:MiaSlafhauzer;
+	color:linen;
+	font-size:120px;
+	line-height:10px;
+	text-align:center;
+}
+h2 {
+	font-family: Monospace;
+	color:linen;
+	font-size:35px;
+	text-align:center;
+}
+
+body {
+ background-image: url("pozadina.jpg");
+ background-color: #cccccc;
+}
+a:link { 
+	color:black;
+	background-color: linen;
+	padding: 5px;
+	line-height: 40px;
+	border: 2px solid #000000;
+	text-align:center;
+	
+}
+nav ul li {display: inline;
+text-align:center;
+font-size: 25px;
+}
+a:hover{
+	background-color: lightpink;
+}
+img{
+	height: 200px;
+}
