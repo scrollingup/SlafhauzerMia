@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>~slike~</title>
+<link rel="stylesheet" href="stil.css"/>
+</head>
+<body style="background-image: url('digmult.jpg');">
+</body>
+<body>
+<TT>
+<font size="+2">
+<a href="index.html"><font style="color:white">povratak na početnu stranicu </font></a>
+<h1><font style="color:white">~slike~</font></TT></h1>
+<img src="https://i.pinimg.com/564x/0e/eb/0d/0eeb0dcbee1904c3c73122515389413d.jpg">
+<img src="https://i.pinimg.com/564x/d2/cd/00/d2cd0009c1070488bc019882f4f3e9be.jpg">
+<img src="https://i.pinimg.com/564x/d6/16/b2/d616b2a0ea0ad4cae3acc0741ca2a93c.jpg">
+<img src="https://i.pinimg.com/564x/88/07/74/880774e529649568d49418307db56787.jpg">
+
+</TT>
+</font>
+</body>
+
+</html>
