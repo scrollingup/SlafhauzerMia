@@ -14,7 +14,7 @@ p {
   	src: url("MiaSlafhauzer.ttf");
 	text-align:center;
 }
-h1 {font-family: MiaSlafhauzer;
+h1 {font-family:MiaSlafhauzer;
 	color:linen;
 	font-size:120px;
 	line-height:10px;
@@ -43,6 +43,7 @@ a:link {
 nav ul li {display: inline;
 text-align:center;
 font-size: 25px;
+font-color:white;
 }
 a:hover{
 	background-color: lightpink;
