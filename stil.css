@@ -11,7 +11,7 @@ p {
 
 @font-face{ 
 	font-family: MiaSlafhauzer;
-  	src: url(.vjezbe/MiaSlafhauzer.ttf);
+  	src: url(MiaSlafhauzer.ttf);
 	text-align:center;
 }
 h1 {font-family:MiaSlafhauzer;
